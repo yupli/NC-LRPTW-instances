@@ -1,2 +1,18 @@
-# TZNC-LRPTW-instances
-The numerical data presented in this article is available for readers to download and use
+# TZNC-LRPTW Instances
+
+Experimental instances for the Time- and Zone-Dependent Noise-Constrained Location-Routing Problem with Time Windows (TZNC-LRPTW).
+
+## Structure
+
+- `case study/`: Real-world data from Gulou District, Nanjing
+- `medium-scale/`: Medium-scale test instances (M12L5 to M20L6)
+- `small-scale/`: Small-scale test instances (M3L2 to M10L5)
+
+## Naming Convention
+
+`MxLy_z_[type].csv`: x monitoring points, y landing pads, z instance index.
+
+## Files
+
+- `[instance]_landing.csv`: Landing pad locations
+- `[instance]_monitor.csv`: Monitoring points with time windows
