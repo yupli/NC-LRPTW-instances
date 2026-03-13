@@ -1,6 +1,6 @@
-# TZNC-LRPTW Instances
+# NC-LRPTW Instances
 
-Experimental instances for the Time- and Zone-Dependent Noise-Constrained Location-Routing Problem with Time Windows (TZNC-LRPTW).
+Experimental instances for the Noise-Constrained Location-Routing Problem with Time Windows (TZNC-LRPTW).
 
 ## Structure
 
